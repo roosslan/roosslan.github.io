@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Ruslan
 title: Software Developer
-email: @googlemail.com
+email: roosslan@googlemail.com
 website: www.roosslan.github.io
 
 # Dark Mode (true/false/never)
@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 # twitter_username: facespics
-# github_username:  sproogen
+github_username: roosslan
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ruslan and I'm a software developer. As well as programming I also have experience making software and STM32 apps. I have worked at a number of companies gaining teamwork.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>OOP</mark> and <mark>C</mark>
 
 content:
   - title: Projects # Title for the section
