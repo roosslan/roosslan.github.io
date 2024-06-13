@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2.2
+version: 2
 
 # Personal info
 name: Ruslan
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at KNITU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *KAI Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a committee member of the *KAI Mountaineering Club* taking on roles such as *Trip Secretary* and *MFC-President*.
 
   - title: A Little More About Me
     layout: text
