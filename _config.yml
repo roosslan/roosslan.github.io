@@ -85,7 +85,17 @@ content:
           Solving 21st century problems by coding
         description: | # this will include new lines to allow paragraphs
             git, Unit Tests, Eclipse, Jira.
-
+      - layout: left
+        title: CPP developer
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: C++ developer
+        caption: Oct 2019 - Oct 2022
+        quote: >
+          Solving 21st century problems by coding
+        description: | # this will include new lines to allow paragraphs
+            git, Unit Tests, Eclipse, Jira.
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
