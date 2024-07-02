@@ -23,7 +23,7 @@ github_username: roosslan
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: ruslan
-xing_username: ruslan
+# xing_username: ruslan
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -140,7 +140,7 @@ content:
       - Sci-fi Books
 
       Some image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
