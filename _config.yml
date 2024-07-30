@@ -31,9 +31,9 @@ linkedin_username: ruslan
 
 # Additional icon links
 additional_links:
-- title: 0x2.dev
+- title: alabuga.dev
   icon: fas fa-globe
-  url: https://www.0x2.dev
+  url: https://www.alabuga.dev
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ruslan and I'm a software developer. As well as programming I also have experience making software and Windows apps. I have worked at a number of companies gaining teamwork.
 
-  I am most skilled in: <mark>OOP</mark> and <mark>C++</mark>
+  I am most skilled in: <mark>C++</mark> and <mark>Qt</mark>
 
 content:
   - title: Projects # Title for the section
